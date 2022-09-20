@@ -432,12 +432,66 @@ margin-left: 94px;
   margin-left: auto;
 }
 
+.mailto-boxsutdio::before{
+  display: block;
+  content:"" ;
+  width: 20px;
+  height: 80px;
+  background-image: url(../img-icon/envelope-3.svg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right:10px ;
+  align-items: center;
+}
+
+.mailto-boxsutdio:hover:before{
+  display: block;
+  content:"" ;
+  width: 20px;
+  height: 80px;
+  background-image: url(../img-icon/envelope\ \(hover\)-2.svg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right:10px ;
+  align-items: center;
+}
+
+.tel-boxstudio::before{
+  display: block;
+  content:"" ;
+  width: 20px;
+  height: 80px;
+  background-image: url(../img-icon/smartphone-2.svg);
+  background-position: center;
+  background-size:60%;
+  background-repeat: no-repeat;
+  margin-right:10px ;
+  align-items: center;
+}
+
+.tel-boxstudio:hover:before{
+  display: block;
+  content:"" ;
+  width: 20px;
+  height: 80px;
+  background-image: url(../img-icon/smartphone-2.svg);
+  background-position: center;
+  background-size:60%;
+  background-repeat: no-repeat;
+  margin-right:10px ;
+  align-items: center;
+}
+
 
 .hero-box{
  /*  */
   text-align: center;
   justify-content: center;
 }
+
+
 
 
 
@@ -482,6 +536,16 @@ margin-left: 94px;
 
 }
 
+.Hero-img{
+  background-image: linear-gradient(
+    to right,
+    rgba(47, 48, 58, 0.4),
+    rgba(47, 48, 58, 0.4)),url(../img/Img.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 
 .title-benefits {
   color: var(--color-title-one);
@@ -507,6 +571,18 @@ flex-basis: calc((100% - 90px) / 4);
 .benefits-list-item:last-child{
   /* background: tomato; */
   margin-right:0px;
+}
+.benefits-boxfon-antena{
+ display: flex;
+  width: 270px;
+ height: 120px;
+ align-items: center;
+ margin-bottom: 20px;
+ background-color: F5F4FA; 
+ background-image:url(../img-icon/antenna\ 1-2.svg) ;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: 30%;
 }
 
 
@@ -664,6 +740,58 @@ flex-basis: calc((100% - 90px) / 4);
 
 }
 
+.mailto-boxgalery::before{
+  display: block;
+  content:"" ;
+  width: 20px;
+  height: 80px;
+  background-image: url(../img-icon/envelope-3.svg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right:10px ;
+  align-items: center;
+}
+
+.mailto-boxgalery:hover:before{
+  display: block;
+  content:"" ;
+  width: 20px;
+  height: 80px;
+  background-image: url(../img-icon/envelope\ \(hover\)-2.svg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right:10px ;
+  align-items: center;
+}
+
+.tel-boxgalery::before{
+  display: block;
+  content:"" ;
+  width: 20px;
+  height: 80px;
+  background-image: url(../img-icon/smartphone-2.svg);
+  background-position: center;
+  background-size:60%;
+  background-repeat: no-repeat;
+  margin-right:10px ;
+  align-items: center;
+}
+
+.tel-boxgalery:hover:before{
+  display: block;
+  content:"" ;
+  width: 20px;
+  height: 80px;
+  background-image: url(../img-icon/smartphone-2.svg);
+  background-position: center;
+  background-size:60%;
+  background-repeat: no-repeat;
+  margin-right:10px ;
+  align-items: center;
+}
+
 .visually-hidden { position: absolute; 
   white-space: nowrap; 
   width: 1px; 
@@ -772,6 +900,7 @@ margin-right:90px;
   margin-top:0px ;
   margin-bottom: 0px;
   margin-left: auto;
+  
 }
 
 .list-item-pagesgalery{
