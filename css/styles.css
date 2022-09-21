@@ -748,6 +748,7 @@ flex-basis: calc((100% - 90px) / 4);
   height: 44px;
   background-position: center;
   background-size: cover;
+  
 }
 .icon-size{
   width: 20px;
