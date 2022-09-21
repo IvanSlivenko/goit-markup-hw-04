@@ -749,6 +749,10 @@ flex-basis: calc((100% - 90px) / 4);
   background-position: center;
   background-size: cover;
 }
+.icon-size{
+  width: 20px;
+  height: 20px;
+}
 
 .footer {
   background:var(--color-hero-bagraund);
