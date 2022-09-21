@@ -743,12 +743,15 @@ flex-basis: calc((100% - 90px) / 4);
   justify-content: center;
   width: 44px;
   height: 44px;
+  border-radius: 50%;
 }
 .icon-instagram{
   width: 44px;
   height: 44px;
   background-position: center;
   background-size: cover;
+  fill: #FFFFFF;
+  color: #AFB1B8;
   
 }
 .icon-size{
