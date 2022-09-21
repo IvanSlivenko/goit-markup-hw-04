@@ -716,6 +716,40 @@ flex-basis: calc((100% - 90px) / 4);
   padding-top: 30px;
   padding-bottom: 30px;
 }
+.icon-list{
+ display: flex;
+ list-style: none;
+ align-items: center;
+ justify-content: center;
+
+}
+.our-teams-iisticon{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  margin-right: 10px;
+  
+
+}
+.our-teams-iisticon:nth-last-child(){
+  margin-right: 0px;
+}
+.link-icon{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+}
+.icon-instagram{
+  width: 44px;
+  height: 44px;
+  background-position: center;
+  background-size: cover;
+}
+
 .footer {
   background:var(--color-hero-bagraund);
   padding-top: 60px;
