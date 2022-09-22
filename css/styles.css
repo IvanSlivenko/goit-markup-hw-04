@@ -750,8 +750,8 @@ flex-basis: calc((100% - 90px) / 4);
   height: 44px;
   background-position: center;
   background-size: cover;
-  fill: #FFFFFF;
-  color: #AFB1B8;
+  /* fill: #FFFFFF; */
+  /* color: #AFB1B8; */
   
 }
 .icon-size{
