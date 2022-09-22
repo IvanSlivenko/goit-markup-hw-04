@@ -580,10 +580,10 @@ flex-basis: calc((100% - 90px) / 4);
  justify-content: center;
  margin-bottom: 20px;
  background-color: #F5F4FA; 
- background-image:url(../img-icon/antenna\ 1-2.svg) ;
+ /* background-image:url(../img-icon/antenna\ 1-2.svg) ;
  background-position: center;
  background-repeat: no-repeat;
- background-size: 30%;
+ background-size: 30%; */
 }
 
 .benefits-boxfon-clock{
@@ -594,10 +594,10 @@ flex-basis: calc((100% - 90px) / 4);
   justify-content: center;
   margin-bottom: 20px;
   background-color: #F5F4FA; 
-  background-image:url(../img-icon/clock\ 1-2.svg) ;
+  /* background-image:url(../img-icon/clock\ 1-2.svg) ;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 30%;
+  background-size: 30%; */
  }
  .benefits-boxfon-diagram{
   display: flex;
@@ -607,10 +607,10 @@ flex-basis: calc((100% - 90px) / 4);
   justify-content: center;
   margin-bottom: 20px;
   background-color: #F5F4FA; 
-  background-image:url(../img-icon/diagram\ 1-2.svg) ;
+  /* background-image:url(../img-icon/diagram\ 1-2.svg) ;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 30%;
+  background-size: 30%; */
  }
 
  .benefits-boxfon-astronaut{
@@ -621,10 +621,10 @@ flex-basis: calc((100% - 90px) / 4);
   justify-content: center;
   margin-bottom: 20px;
   background-color: #F5F4FA; 
-  background-image:url(../img-icon/astronaut\ 1-2.svg) ;
+  /* background-image:url(../img-icon/astronaut\ 1-2.svg) ;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 30%;
+  background-size: 30%; */
  }
 
 
