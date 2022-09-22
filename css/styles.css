@@ -809,6 +809,11 @@ display: flex;
 
 border: 1px solid wheat;
 }
+
+.flex-container-footerstudio{
+  display: flex;
+  align-items: baseline;
+}
 .footer-iconstudio{
   display: flex;
   flex-direction: column;
@@ -822,6 +827,7 @@ border: 1px solid wheat;
   
   
 }
+
 .footer-iconstudio-title{
   font-weight: 700;
 font-size: 14px;
@@ -1343,6 +1349,11 @@ margin-top: 9px;
 .footer-item-frigalery{
   display: flex;
   margin-top: 9px;
+}
+
+.flex-container-footergalery{
+  display: flex;
+  align-items: baseline;
 }
 
 
