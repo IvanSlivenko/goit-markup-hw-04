@@ -756,6 +756,15 @@ flex-basis: calc((100% - 90px) / 4);
   /* color: #AFB1B8; */
   
 }
+.icon-benefits{
+  width: 70px;
+  height: 70px;
+  background-position: center;
+  background-size: cover;
+  /* fill: #FFFFFF; */
+  /* color: #AFB1B8; */
+  
+}
 .icon-size{
   width: 20px;
   height: 20px;
