@@ -405,7 +405,7 @@ margin-left: 94px;
   display: block;
   padding-top:32px;
   padding-bottom:32px;
-  align-items: flex-end;
+  
   
 }
 .tel{
@@ -762,7 +762,8 @@ flex-basis: calc((100% - 90px) / 4);
   height: 44px;
   background-position: center;
   background-size: cover;
-  align-items: flex-end;
+  padding-top: 5px;
+  
  
   
 }
@@ -771,7 +772,7 @@ flex-basis: calc((100% - 90px) / 4);
   height: 44px;
   background-position: center;
   background-size: cover;
- align-items: flex-end;
+   padding-top: 5px;
   
   
 }
