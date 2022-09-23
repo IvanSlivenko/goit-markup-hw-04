@@ -474,18 +474,7 @@ margin-left: 94px;
   align-items: center;
 } */
 
-.tel-boxstudio:hover:before{
-  display: block;
-  content:"" ;
-  width: 20px;
-  height: 80px;
-  background-image: url(../img-icon/smartphone-2.svg);
-  background-position: center;
-  background-size:60%;
-  background-repeat: no-repeat;
-  margin-right:10px ;
-  align-items: center;
-}
+
 
 
 .hero-box{
@@ -804,7 +793,6 @@ flex-basis: calc((100% - 90px) / 4);
   background-position: center;
   background-size: cover;
   padding-top: 5px;
-  margin-right: 5px;
   fill: #2196F3;
   
   
@@ -842,8 +830,7 @@ flex-basis: calc((100% - 90px) / 4);
   height: 70px;
   background-position: center;
   background-size: cover;
-  /* fill: #FFFFFF; */
-  /* color: #AFB1B8; */
+  
   
 }
 .icon-size-adresstudio{
@@ -912,14 +899,21 @@ flex-basis: calc((100% - 90px) / 4);
  
   width: 170px;
   height: 92px;
+ 
+}
 
-  
-  
+.client-box-cvg:hover{
+ 
+  width: 170px;
+  height: 92px;
+  border: 1px solid #2196F3;
+  border-radius: 4%;
+ 
 }
 
 .icon-cocial-footerstudio{
-   /* background-color: #188ECB; */
-   border: 1px solid red;
+   
+   
    width: 20px;
    height: 20px;
 }
