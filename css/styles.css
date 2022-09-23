@@ -817,6 +817,7 @@ flex-basis: calc((100% - 90px) / 4);
 .icon-size-cocialteam{
   width: 20px;
   height: 20px;
+  fill: #ffffff;
   
 
 }
@@ -871,6 +872,7 @@ flex-basis: calc((100% - 90px) / 4);
  
   width: 170px;
   height: 92px;
+  fill: #AFB1B8;
  
 }
 
@@ -888,6 +890,7 @@ flex-basis: calc((100% - 90px) / 4);
    
    width: 20px;
    height: 20px;
+   fill: #ffffff;
 }
 
 .logo-info-futerstudio{
