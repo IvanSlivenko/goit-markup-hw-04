@@ -856,6 +856,7 @@ flex-basis: calc((100% - 90px) / 4);
   display: flex;
   align-items: center;
   justify-content: center;
+  fill: #AFB1B8;
   
 }
 .logo-box:hover{
@@ -872,7 +873,7 @@ flex-basis: calc((100% - 90px) / 4);
  
   width: 170px;
   height: 92px;
-  fill: #AFB1B8;
+  
  
 }
 
