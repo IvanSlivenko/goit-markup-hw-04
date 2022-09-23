@@ -798,12 +798,33 @@ flex-basis: calc((100% - 90px) / 4);
   
   
 }
+.icon-contacts-smartphone:hover{
+  width: 44px;
+  height: 44px;
+  background-position: center;
+  background-size: cover;
+  padding-top: 5px;
+  margin-right: 5px;
+  fill: #2196F3;
+  
+  
+}
 .icon-cocial{
   width: 20px;
   height: 20px;
   background-position: center;
   background-size: cover;
   /* fill: #FFFFFF; */
+  /* color: #AFB1B8; */
+  
+}
+
+.icon-cocial:hover{
+  width: 20px;
+  height: 20px;
+  background-position: center;
+  background-size: cover;
+  fill: #FFFFFF;
   /* color: #AFB1B8; */
   
 }
