@@ -1025,31 +1025,9 @@ margin-bottom: 20px;
 
 }
 
-.mailto-boxgalery::before{
-  display: block;
-  content:"" ;
-  width: 20px;
-  height: 80px;
-  background-image: url(../img-icon/envelope-3.svg);
-  background-position: center;
-  background-size: contain;
-  background-repeat: no-repeat;
-  margin-right:10px ;
-  align-items: center;
-}
 
-.mailto-boxgalery:hover:before{
-  display: block;
-  content:"" ;
-  width: 20px;
-  height: 80px;
-  background-image: url(../img-icon/envelope\ \(hover\)-2.svg);
-  background-position: center;
-  background-size: contain;
-  background-repeat: no-repeat;
-  margin-right:10px ;
-  align-items: center;
-}
+
+
 
 
 
