@@ -696,7 +696,8 @@ flex-basis: calc((100% - 90px) / 4);
   justify-content: center;
   width: 44px;
   height: 44px;
-   border-radius: 50%;
+  border-radius: 50%;
+  fill: #ffffff;
 }
 .link-icon:hover{
   
@@ -707,6 +708,7 @@ flex-basis: calc((100% - 90px) / 4);
   height: 44px;
   background-color: #2196F3;
   border-radius: 50%;
+  fill: #ffffff;
 }
 .icon-instagram{
   width: 44px;
