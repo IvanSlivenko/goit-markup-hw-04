@@ -805,9 +805,27 @@ flex-basis: calc((100% - 90px) / 4);
   /* color: #AFB1B8; */
   
 }
+.icon-size-adresstudio{
+  width: 25px;
+  height: 25px;
+  
+
+}
+.icon-size-benefits{
+  width: 70px;
+  height: 70px;
+  
+
+}
 .icon-size{
   width: 70px;
   height: 70px;
+  
+
+}
+.icon-size-cocialteam{
+  width: 44px;
+  height: 44px;
   
 
 }
