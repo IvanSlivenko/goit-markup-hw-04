@@ -406,7 +406,6 @@ margin-left: 94px;
   display: flex;
   padding-top:32px;
   padding-bottom:32px;
-  border: 1px solid red;
   align-items: center;
   
   
@@ -743,7 +742,7 @@ flex-basis: calc((100% - 90px) / 4);
   margin-right: 0px;
 }
 .link-icon{
-  border: 1px solid red;
+  
   display: flex;
   align-items: center;
   justify-content: center;
@@ -807,9 +806,9 @@ flex-basis: calc((100% - 90px) / 4);
   
 }
 .icon-size{
-  width: 20px;
-  height: 20px;
-  border: 1px solid blue;
+  width: 70px;
+  height: 70px;
+  
 
 }
 .client-box{
