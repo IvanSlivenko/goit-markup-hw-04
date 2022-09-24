@@ -1341,6 +1341,11 @@ justify-content: center;
   margin-bottom: 0px; */
 }
 
+.ablock-galery-item{
+
+
+}
+
 .galery-title-box{
   
   /* display: flex; */
@@ -1470,6 +1475,7 @@ margin-bottom: 20px;
   align-items: center;
   justify-content: center;
   background-color: #44454E;
+  border-radius: 50%;
 
   
 }
