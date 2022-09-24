@@ -1466,8 +1466,26 @@ margin-bottom: 20px;
   width: 44px;
   height: 44px;
   margin-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #44454E;
+
   
 }
 .footerlistitem-icongalery:nth-child(4){
   margin-right: 0px;
+}
+
+.footerlistitem-icongalery:hover{
+  /* border: 1px solid red; */
+  width: 44px;
+  height: 44px;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2196F3;
+
+  
 }
