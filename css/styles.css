@@ -1462,11 +1462,11 @@ margin-bottom: 20px;
   
 }
 .footerlistitem-icongalery{
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 44px;
   height: 44px;
   margin-right: 10px;
-  transform: rotate(45);
+  
 }
 .footerlistitem-icongalery:nth-child(4){
   margin-right: 0px;
