@@ -421,6 +421,14 @@ margin-left: 94px;
 
   color: var(--color-current);
 }
+.mailto:hover .icon-contacts-envelope{
+  fill:var(--color-current) ;
+}
+
+.tel:hover .icon-contacts-smartphone{
+  fill:var(--color-current) ;
+}
+
 
 .button-list,
 .list-type {
@@ -804,9 +812,9 @@ flex-basis: calc((100% - 90px) / 4);
   
 }
 .icon-size-adresstudio{
-  width: 20px;
-  height: 20px;
-  margin-right: 5px;
+  width: 16px;
+  height: 12px;
+  margin-right: 10px;
   
 
 }
