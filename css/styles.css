@@ -890,6 +890,10 @@ flex-basis: calc((100% - 90px) / 4);
 
 }
 .logo-box{
+  width: 170px;
+  height: 92px;
+ 
+
   display: flex;
   align-items: center;
   justify-content: center;
