@@ -881,9 +881,9 @@ flex-basis: calc((100% - 90px) / 4);
   width:170px ;
   height:92px ;
   margin-right: 30px;
-  border: 1px solid #AFB1B8;
-  fill: #AFB1B8;
-  border-radius:4% ;
+  /* border: 1px solid #AFB1B8; */
+  /* fill: #AFB1B8; */
+  /* border-radius:4% ; */
 }
 .list-item-client:nth-child(6){
   margin-right: 0px;
@@ -896,34 +896,28 @@ flex-basis: calc((100% - 90px) / 4);
   
   
 }
-.logo-box:hover .client-box-cvg{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid #2196F3;
-  border-radius: 4%;
-  fill:#2196F3 ;
-
-  
-}
 .client-box-cvg{
  
   width: 170px;
   height: 92px;
+  border: 1px solid  #AFB1B8;
+  border-radius: 4%;
   fill: #AFB1B8;
-  
  
 }
-
-.client-box-cvg:hover{
- 
-  width: 170px;
-  height: 92px;
-  border: 1px solid #2196F3;
+.logo-box:hover .client-box-cvg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid  #2196F3;
   border-radius: 4%;
   fill:#2196F3 ;
- 
+
+  
 }
+
+
+
 
 .icon-cocial-footerstudio{
    
