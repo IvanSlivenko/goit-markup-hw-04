@@ -722,16 +722,16 @@ flex-basis: calc((100% - 90px) / 4);
   height: 44px;
   background-color: #2196F3;
   border-radius: 50%;
-  /* fill: #ffffff; */
+  fill: #ffffff;
 }
 .link-icon:hover .icon-size-cocialteam{
   
   display: flex;
   align-items: center;
   justify-content: center;
-  /* width: 20px;
+  width: 20px;
   height: 20px;
-  background-color: #2196F3;
+  /* background-color: #2196F3;
   border-radius: 50%; */
   fill: #ffffff;
 }
