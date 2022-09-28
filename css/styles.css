@@ -713,7 +713,18 @@ flex-basis: calc((100% - 90px) / 4);
   border-radius: 50%;
   fill: #ffffff;
 }
-.link-icon:hover{
+/* .link-icon:hover{
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  background-color: #2196F3;
+  border-radius: 50%;
+  fill: #ffffff;
+} */
+.link-icon:hover .icon-size-cocialteam{
   
   display: flex;
   align-items: center;
