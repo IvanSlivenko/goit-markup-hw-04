@@ -637,12 +637,13 @@ flex-basis: calc((100% - 90px) / 4);
 }
 .our-teams-iist {
   background:var(--color-background-oun);
+  box-shadow: 0px 10px 10px -5px rgba(194, 194, 194, 0.8);
 
 }
-.our-teams-iist:hover {
+/* .our-teams-iist:hover {
   background:var(--color-background-oun);
   box-shadow: 0px 10px 10px -5px rgba(194, 194, 194, 0.8);
-}
+} */
 .our-teams-iist:last-child{
   /* margin-right: 0px; */
 }
