@@ -818,6 +818,13 @@ flex-basis: calc((100% - 90px) / 4);
   
 
 }
+.icon-size-adresstudio-two{
+  width: 10px;
+  height: 16px;
+  margin-right: 10px;
+  
+
+}
 .icon-size-benefits{
   width: 70px;
   height: 70px;
