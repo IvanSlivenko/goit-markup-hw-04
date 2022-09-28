@@ -754,8 +754,8 @@ flex-basis: calc((100% - 90px) / 4);
 
 }
 .icon-contacts-smartphone{
-  width: 44px;
-  height: 44px;
+  width: 10px;
+  height: 16px;
   background-position: center;
   background-size: cover;
   padding-top: 5px;
@@ -765,8 +765,8 @@ flex-basis: calc((100% - 90px) / 4);
   
 }
 .icon-contacts-smartphone:hover{
-  width: 44px;
-  height: 44px;
+  width: 10px;
+  height: 16px;
   background-position: center;
   background-size: cover;
   padding-top: 5px;
