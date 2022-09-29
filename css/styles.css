@@ -1008,10 +1008,12 @@ margin-bottom: 20px;
 }
 
 .Link-cocial-footerstudio:hover{
+  border-radius: 50%;
    background-color: #2196F3;
  }
- 
+
 .Link-cocial-footerstudio:focus{
+  border-radius: 50%;
   background-color: #2196F3;
  
 }
@@ -1552,10 +1554,12 @@ margin-bottom: 20px;
 }
 
 .Link-cocial-footergalery:hover{
+   border-radius: 50%;
    background-color: #2196F3;
 }
 
 .Link-cocial-footergalery:focus{
+    border-radius: 50%;
    background-color: #2196F3;
 }
 
