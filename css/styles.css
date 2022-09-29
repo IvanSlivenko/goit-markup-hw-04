@@ -1016,8 +1016,25 @@ margin-bottom: 20px;
   align-items: center;
   justify-content: center;
 }
+.footerlistitem-iconstudio:focus{
+  
+  width: 44px;
+  height: 44px;
+  margin-right: 10px;
+  background-color: #2196F3;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .footerlistitem-iconstudio:nth-child(4){
   margin-right: 0px;
+}
+
+.Link-cocial-footerstudio{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 
