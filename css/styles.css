@@ -735,7 +735,7 @@ flex-basis: calc((100% - 90px) / 4);
 
 }
 .link-icon:hover .icon-size-cocialiteam{
-     fill: #ffffff;
+     fill: white;
 }
 
 .link-icon:focus{
@@ -751,7 +751,7 @@ flex-basis: calc((100% - 90px) / 4);
 }
 
 .link-icon:focus .icon-size-cocialiteam{
-   fill: #ffffff;
+   fill: white;
 }
 
 
