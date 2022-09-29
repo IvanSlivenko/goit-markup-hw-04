@@ -735,6 +735,7 @@ flex-basis: calc((100% - 90px) / 4);
 
 }
 .link-icon:hover .icon-size-cocialiteam{
+
      fill: white;
 }
 
@@ -890,7 +891,7 @@ padding-bottom: 94px;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
   }
 .list-client{
    display: flex;
