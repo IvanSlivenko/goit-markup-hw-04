@@ -935,9 +935,16 @@ flex-basis: calc((100% - 90px) / 4);
   border: 1px solid  #2196F3;
   border-radius: 4%;
   fill:#2196F3 ;
+  }
 
-  
-}
+  .logo-box:focus .client-box-cvg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid  #2196F3;
+    border-radius: 4%;
+    fill:#2196F3 ;
+    }
 
 
 
