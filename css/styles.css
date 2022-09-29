@@ -985,7 +985,7 @@ text-transform: uppercase;
 color: #FFFFFF;
 
 margin-right: auto;
-margin-bottom: 20px;
+
 
 }
 .footerlist-iconstudio{
@@ -993,7 +993,7 @@ margin-bottom: 20px;
   
   list-style: none;
   justify-content: center;
-  margin-top: 10px;
+  margin-top: 20px;
   
 }
 .footerlistitem-iconstudio{
@@ -1525,7 +1525,7 @@ text-transform: uppercase;
 color: #FFFFFF;
 
 margin-right: auto;
-margin-bottom: 20px;
+
 
 }
 .footerlist-icongalery{
@@ -1533,7 +1533,7 @@ margin-bottom: 20px;
   
   list-style: none;
   justify-content: center;
-  margin-top: 10px;
+  margin-top: 20px;
   
 }
 .footerlistitem-icongalery{
