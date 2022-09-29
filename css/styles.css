@@ -716,7 +716,7 @@ flex-basis: calc((100% - 90px) / 4);
   
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-contenlink-icont: center;
   width: 44px;
   height: 44px;
   border-radius: 50%;
@@ -731,7 +731,7 @@ flex-basis: calc((100% - 90px) / 4);
   height: 44px;
   background-color: #2196F3;
   border-radius: 50%;
-  fill: #ffffff;
+  /* fill: #ffffff; */
 
 }
 .link-icon:hover .icon-size-cocialiteam{
@@ -747,7 +747,7 @@ flex-basis: calc((100% - 90px) / 4);
   height: 44px;
   background-color: #2196F3;
   border-radius: 50%;
-  fill: #ffffff;
+  /* fill: #ffffff; */
   
 }
 .link-icon:focus .icon-size-cocialiteam{
@@ -869,15 +869,20 @@ flex-basis: calc((100% - 90px) / 4);
   
 
 }
-.icon-size-cocialteam{
+.icon-size-cocialiteam{
   width: 20px;
   height: 20px;
   fill: #ffffff;
   
 
 }
+.section-client-box{
+padding-top: 94px;
+padding-bottom: 94px;
+
+}
 .client-box{
-  margin-top: 94px;
+  /* margin-top: 94px; */
 }
 .title-client{
   font-weight: 700;
@@ -893,8 +898,8 @@ flex-basis: calc((100% - 90px) / 4);
   list-style: none;
   align-items: center;
   justify-content: center;
-  margin-top: 50px;
-  margin-bottom: 94px;
+  /* margin-top: 50px; */
+  /* margin-bottom: 94px; */
   
 }
 .list-item-client{
@@ -920,8 +925,8 @@ flex-basis: calc((100% - 90px) / 4);
 }
 .client-box-cvg{
  
-  width: 170px;
-  height: 92px;
+  width: 106px;
+  height: 60px;
   border: 1px solid  #AFB1B8;
   border-radius: 4%;
   fill: #AFB1B8;
