@@ -735,17 +735,10 @@ flex-basis: calc((100% - 90px) / 4);
 }
 .link-icon:hover .icon-size-cocialteam{
   
-  /* display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 20px;
-  height: 20px; */
-  /* background-color: #2196F3;
-  border-radius: 50%; */
+ 
   fill: #ffffff;
 }
 .link-icon:focus{
-  
   display: flex;
   align-items: center;
   justify-content: center;
@@ -756,28 +749,11 @@ flex-basis: calc((100% - 90px) / 4);
   /* fill: #ffffff; */
 }
 .link-icon:focus .icon-size-cocialteam{
-  
-  /* display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 20px;
-  height: 20px; */
-  /* background-color: #2196F3;
-  border-radius: 50%; */
+ 
   fill: #ffffff;
 }
 
-.link-icon:hover .icon-cocial{
-  
-  /* display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 20px;
-  height: 20px; */
-  /* background-color: #2196F3;
-  border-radius: 50%; */
-  /* fill: #ffffff; */
-}
+
 .icon-instagram{
   width: 44px;
   height: 44px;
